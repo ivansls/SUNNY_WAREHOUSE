@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103138840497",
+    "project_id": "sunny-cloud-24ef9",
+    "storage_bucket": "sunny-cloud-24ef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103138840497:android:c4d61e675631ae6c30b790",
+        "android_client_info": {
+          "package_name": "com.example.sunny_warehouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkXSfxPd4X-Y_1fCxBhbH3VVz-FYqadsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

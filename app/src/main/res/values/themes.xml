@@ -1,0 +1,53 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SUNNY_WAREHOUSE" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.SUNNY_WAREHOUSE" parent="Base.Theme.SUNNY_WAREHOUSE" />
+
+    <style name="MyImage" parent="Theme.MaterialComponents.DayNight">
+        <item name="android:background">#FFFDD5</item>
+    </style>
+
+
+    <style name="ButtonGreen" parent="Theme.MaterialComponents.DayNight">
+        <item name="backgroundTint">#C3DA8A</item>
+    </style>
+
+    <style name="ButtonOrange" parent="Theme.MaterialComponents.DayNight">
+        <item name="backgroundTint">#FFCC99</item>
+    </style>
+
+
+    <style name="MyRadioButton" parent="Theme.AppCompat.Light">
+        <item name="colorControlNormal">#FFFFFF</item>
+        <item name="colorControlActivated">@android:color/black</item>
+    </style>
+
+
+    <style name="ButtonStyle" parent="Theme.MaterialComponents.DayNight">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">15dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:background">#B798CD</item>
+        <item name="android:gravity">center</item>
+        <item name="android:bottomLeftRadius">10dp</item>
+        <item name="android:topLeftRadius">10dp</item>
+    </style>
+
+
+    <style name="MyCardViewStyle" parent="Theme.AppCompat.Light">
+        <item name="cardCornerRadius">10dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardMaxElevation">4dp</item>
+        <item name="contentPaddingBottom">10dp</item>
+        <item name="contentPaddingTop">10dp</item>
+        <item name="contentPaddingLeft">5dp</item>
+        <item name="contentPaddingRight">5dp</item>
+        <item name="cardBackgroundColor">#C4C1D8</item>
+    </style>
+
+
+</resources>
